@@ -1,6 +1,6 @@
 {
   "name": "cid",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "build connection IDs for table storage with unique values",
   "main": "index.js",
   "scripts": {
